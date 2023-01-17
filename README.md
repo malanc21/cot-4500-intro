@@ -15,3 +15,6 @@ To run this project, follow the following instructions:
 2) Go to the project folder i.e. cd ~/Project1
 3) Execute python3 src/main/intro_to_python.py
 
+Testing the project code
+========================
+Run unit tests in test folder
